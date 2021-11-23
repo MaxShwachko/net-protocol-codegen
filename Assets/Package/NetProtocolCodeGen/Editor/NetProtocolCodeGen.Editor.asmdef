@@ -1,0 +1,18 @@
+{
+    "name": "NetProtocolCodeGen.Editor",
+    "references": [
+        "GUID:b9e081786a5036b4191dd9989f6a7b75",
+        "GUID:56863e7ce94f0a642926016d35a06636"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
