@@ -1,5 +1,5 @@
 {
-  "name": "com.playdarium.netprotocolcodegen",
+  "name": "com.realis.netprotocolcodegen",
   "displayName": "Net Protocol",
   "description": "Net Protocol for cryptosoul projects",
   "version": "1.0.0",
@@ -7,12 +7,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/nazgull30/net-protocol-codegen.git#upm"
+    "url": "https://github.com/MaxShwachko/net-protocol-codegen.git#upm"
   },
   "author": {
-    "name": "playdarium",
-    "email": "playdarium@gmail.com",
-    "url": "https://playdarium.com"
+    "name": "realis",
+    "email": "tabureddd@gmail.com",
+    "url": ""
   },
   "dependencies": {},
   "keywords": [
